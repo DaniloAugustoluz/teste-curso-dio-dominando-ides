@@ -10,12 +10,7 @@ public class PrimeiroPrograma {
 		
 		System.out.println(gato);
 		System.out.println(Livroclass);
-		/*		
-	int a = 10;
-	int b = 10;	
-	int c = a + b;	
-		System.out.println("Hello world! " + c);
-*/
+
 	}
 
 }
