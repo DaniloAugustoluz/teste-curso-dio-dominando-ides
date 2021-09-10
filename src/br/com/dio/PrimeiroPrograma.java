@@ -18,4 +18,5 @@ public class PrimeiroPrograma {
 class livros {
 	private String nome;
 	private String npag;
+	private String categoria;
 }
