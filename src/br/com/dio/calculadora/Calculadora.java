@@ -12,7 +12,7 @@ public class Calculadora {
 		System.out.println("Digite outro valor: ");
 		b= scan.nextInt();
 		
-		int somar = soma(a,b);
+		int somar = somar(a,b);
 		int subtrair = subtracao(a,b);
 		float dividir = divisao(a,b);
 		int multiplicar = multiplicacao(a,b);
@@ -23,7 +23,7 @@ public class Calculadora {
 		System.out.println("Resultado da multiplicação: " + multiplicar);
 	}
 	
-	public static int soma(int a,int b) {
+	public static int somar(int a,int b) {
 		return a + b;
 	}
 	public static int subtracao(int a,int b) {
